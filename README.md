@@ -1,6 +1,6 @@
 # Workout Data Summary
 
-This Python program reads workout data from a CSV file, summarizes the training by weeks, and outputs the summary. It calculates total duration, distance, reps, and volume lifted (in lbs*reps) for each week. Additionally, it breaks down the distance and volume by exercise type.
+This Python program reads workout data from a CSV file exported from the [fitbod](http://fitbod.me) app, summarizes the training by weeks, and outputs the summary. It calculates total duration, distance, reps, and volume lifted (in lbs*reps) for each week. Additionally, it breaks down the distance and volume by exercise type.
 
 ## Features
 
