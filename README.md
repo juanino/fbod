@@ -15,6 +15,9 @@ This Python program reads workout data from a CSV file exported from the [fitbod
 
 ## How to Use
 
+1. Export your fitbod data from Log in lower right -> Cog in upper right -> Scroll down to "ExportWorkout Data".
+Name the file workout_data.csv and place it in the directory where you run the script.
+
 1. Clone the repository:
 
    ```
