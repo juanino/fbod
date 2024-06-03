@@ -42,26 +42,19 @@ This Python program reads workout data from a CSV file, summarizes the training 
 ```
 Week: 2024-05-27 to 2024-06-02
 Distance by Exercise:
-- Plank: 0.00 miles
-- Dumbbell Bench Press: 0.00 miles
-- Dumbbell Romanian Deadlift: 0.00 miles
-- Push Up on Knees: 0.00 miles
-- Dumbbell Bicep Curl: 0.00 miles
-- Dumbbell Squat: 0.00 miles
-- Dead Bug: 0.00 miles
-- Walking: 1.78 miles
-- Cycling: 2.55 miles
+- Walking: 5.09 miles
+- Cycling: 5.09 miles
 Volume by Exercise:
-- Dumbbell Bench Press: 61.26 lbs*reps
-- Dumbbell Romanian Deadlift: 45.95 lbs*reps
-- Push Up on Knees: 62.40 lbs*reps
-- Dumbbell Bicep Curl: 31.74 lbs*reps
-- Dumbbell Squat: 45.95 lbs*reps
-- Dead Bug: 83.43 lbs*reps
-Total Duration: 9h 7m 36s
-Total Distance: 4.33 miles
-Total Reps: 127
-Total Volume: 330.77 lbs*reps
+- Dumbbell Bench Press: 480.00 lbs*reps
+- Dumbbell Romanian Deadlift: 600.00 lbs*reps
+- Dumbbell Bicep Curl: 300.00 lbs*reps
+- Dumbbell Squat: 420.00 lbs*reps
+Total Duration: 2h 30m 7s
+Total Distance: 10.18 miles
+Total Reps: 374
+Total Volume: 1800.00 lbs*reps
+Distance Change from Previous Week: -34.58%
+Volume Change from Previous Week: 3114.29%
 ```
 
 ## Dependencies
