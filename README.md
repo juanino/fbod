@@ -24,21 +24,21 @@ Name the file workout_data.csv and place it in the directory where you run the s
    git clone https://github.com/your_username/your_repository.git
    ```
 
-2. Navigate to the directory:
+1. Navigate to the directory:
 
    ```
    cd your_repository
    ```
 
-3. Ensure you have Python installed.
+1. Ensure you have Python installed.
 
-4. Run the script:
+1. Run the script:
 
    ```
    python workout_summary.py
    ```
 
-5. View the summary printed in the console.
+1. View the summary printed in the console.
 
 ## Sample Output
 
