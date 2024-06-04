@@ -1,3 +1,4 @@
+# pylint: disable=unsubscriptable-object
 import csv
 from datetime import datetime, timedelta
 import pytz
